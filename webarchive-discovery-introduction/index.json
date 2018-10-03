@@ -1,8 +1,8 @@
 {
-  "title": "Introduction to Webarchive Discovery",
+  "title": "Introduction to Web Archive Discovery",
   "description": "Learn how to use the webarchive-discovery tools to built a full-text index from WARC files, and explore them via faceted search.",
   "difficulty": "beginner",
-  "time": "20 minutes",
+  "time": "15-20 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Start Solr",
@@ -17,10 +17,13 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
+    "showdashboard": true,
+    "dashboard": "Solr User Interface",
+    "uilayout": "terminal-iframe",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "docker",
+    "port": 8983
   }
 }

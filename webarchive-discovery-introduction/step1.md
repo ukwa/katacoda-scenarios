@@ -1,7 +1,15 @@
-This is your first step.
+First, we need to start an Apache Solr service, so we can populate it with our WARC data.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+We have prepared a packaged-up Solr server that contains a suitable configuration.
 
-`echo 'Hello World'`{{execute}}
+You can run it like this:
+
+`docker run -p 8983:8983 ukwa/webarchive-discovery-solr`{{execute}}
+
+
+### View Solr UI
+
+You can example the Solr built-in user interface via the following URL https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/
+
