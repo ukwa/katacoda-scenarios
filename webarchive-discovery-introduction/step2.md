@@ -9,4 +9,3 @@ Once there:
 When you're done, it should look like this:
 
 ![Empty Solr Screenshot](https://raw.githubusercontent.com/ukwa/katacoda-scenarios/master/webarchive-discovery-introduction/images/solr-ui-query-empty.png "Empty Solr Screenshot")
-
