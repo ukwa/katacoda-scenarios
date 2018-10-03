@@ -1,6 +1,6 @@
 {
   "title": "Introduction to Web Archive Discovery",
-  "description": "C Learn how to use the webarchive-discovery tools to built a full-text index from WARC files, and explore them via faceted search.",
+  "description": "Learn how to use the webarchive-discovery tools to built a full-text index from WARC files, and explore them via faceted search. D",
   "difficulty": "beginner",
   "time": "15-20 minutes",
   "details": {
@@ -18,7 +18,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "Display Solr User Interface", "port": 8983}, {"name": "Display Shine UI", "port": 9000}, {"name": "Display Warclight UI", "port": 5000}],
+    "dashboards": [{"name": "Solr UI", "port": 8983}, {"name": "Shine UI", "port": 9000}, {"name": "Warclight UI", "port": 5000}],
     "uilayout": "terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
