@@ -24,6 +24,12 @@
     },{
       "title": "Step 5 - Explore Solr",
       "text": "step5.md"
+    },{
+      "title": "Step 6 - Using Shine",
+      "text": "step6.md"
+    },{
+      "title": "Step 7 - Using Warclight",
+      "text": "step7.md"
     }],
     "finish": {
       "text": "finish.md"
@@ -31,7 +37,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "Solr UI", "port": 8983}, {"name": "Shine UI", "port": 9000}, {"name": "Warclight UI", "port": 5000}],
+    "dashboards": [{"name": "Solr UI", "port": 8983}, {"name": "Shine UI", "port": 9000}, {"name": "Warclight UI", "port": 3000}],
     "uilayout": "terminal-iframe",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },

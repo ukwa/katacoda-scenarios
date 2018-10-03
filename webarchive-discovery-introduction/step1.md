@@ -1,6 +1,6 @@
 First, we need to start an Apache Solr service, so we can populate it with our WARC data.
 
-## Task
+## Start Solr
 
 We have prepared a packaged-up Solr server that contains a suitable configuration.
 

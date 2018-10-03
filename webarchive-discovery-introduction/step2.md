@@ -3,7 +3,7 @@ Now Solr is running, you should be able to see Solr's built-in interface via the
 Once there:
 
 * Solr can hold multiple databases (known as 'cores') -- select the one called `discovery`.
-* On the menu that appears, select the `Query` item, after which the built-in query UI should appear.
+* On the menu that appears, select the `Query` to switch to the query view.
 * Press `Execute Query` and the default query will run, which matches all records in the database. However, as the database is empty there is nothing to see yet.
 
 When you're done, it should look like this:
