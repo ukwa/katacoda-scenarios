@@ -12,6 +12,6 @@ Once there:
 
 Once you're done, it should look like this:
 
-![Empty Solr Screenshot](./images/solr-ui-query-empty.png "Empty Solr Screenshot")
+![Empty Solr Screenshot](https://raw.githubusercontent.com/ukwa/katacoda-scenarios/master/webarchive-discovery-introduction/images/solr-ui-query-empty.png "Empty Solr Screenshot")
 
 
