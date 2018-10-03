@@ -14,6 +14,7 @@ It will take a little while to download, unpack and run.
 
 If you want to have a look at what's going on, you can type:
 
-`docker logs solr`{{execute}}
+`docker logs -f solr`{{execute}}
 
+This will follow the logs as they are written. To exit use `Ctrl-C`.
 
