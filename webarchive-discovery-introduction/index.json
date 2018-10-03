@@ -1,6 +1,6 @@
 {
   "title": "Introduction to Web Archive Discovery",
-  "description": "Learn how to use the webarchive-discovery tools to built a full-text index from WARC files, and explore them via faceted search. D",
+  "description": "Learn how to use the webarchive-discovery tools to built a full-text index from WARC files, and explore them via faceted search.",
   "difficulty": "beginner",
   "time": "15-20 minutes",
   "details": {
@@ -8,12 +8,22 @@
       "title": "Step 1 - Start Solr",
       "text": "step1.md"
     },{
-      "title": "Step 2 - Explore Solr",
+      "title": "Step 2 - Check Solr",
       "text": "step2.md"
+    },{
+      "title": "Step 3 - Download a WARC",
+      "text": "step3.md"
+    },{
+      "title": "Step 4 - Index your WARC",
+      "text": "step4.md"
+    },{
+      "title": "Step 5 - Explore Solr",
+      "text": "step5.md"
     }],
     "intro": {
       "text": "intro.md",
-      "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/)"
+      "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/)",
+      "courseData": "setup-env.sh"
     },
     "finish": {
       "text": "finish.md"
