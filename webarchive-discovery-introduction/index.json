@@ -7,10 +7,13 @@
     "steps": [{
       "title": "Step 1 - Start Solr",
       "text": "step1.md"
+    },{
+      "title": "Step 2 - Explore Solr",
+      "text": "step2.md"
     }],
     "intro": {
       "text": "intro.md",
-      "credits": "https://www.webarchive.org.uk/"
+      "credits": "[The UK Web Archive](https://www.webarchive.org.uk/)"
     },
     "finish": {
       "text": "finish.md"
@@ -19,7 +22,7 @@
   "environment": {
     "showdashboard": true,
     "dashboards": [{"name": "Solr UI", "port": 8983}, {"name": "Shine UI", "port": 9000}, {"name": "Warclight UI", "port": 5000}],
-    "uilayout": "terminal",
+    "uilayout": "terminal-iframe",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {

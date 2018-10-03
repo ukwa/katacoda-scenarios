@@ -6,14 +6,14 @@ We have prepared a packaged-up Solr server that contains a suitable configuratio
 
 You can run it like this:
 
-`docker run -p 8983:8983 ukwa/webarchive-discovery-solr`{{execute}}
+`docker run --name solr -d -p 8983:8983 ukwa/webarchive-discovery-solr`{{execute}}
 
+It will take a little while to download, unpack and run. 
 
-It will take a little while to download, unpack and run.
+### Check the log file
 
-### View Solr UI
+If you want to have a look at what's going on, you can type:
 
-Once it's running, you should be able to see Solr's built-in interface via the _Solr UI_ tab.
+`docker logs solr`{{execute}}
 
-You can also visit it via the following URL https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/
 
