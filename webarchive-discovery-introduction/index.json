@@ -5,7 +5,6 @@
   "time": "15-20 minutes",
   "details": {
     "intro": {
-      "courseData": "setup-env.sh",
       "text": "intro.md",
       "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/)"
     },
@@ -19,6 +18,7 @@
       "title": "Step 3 - Download a WARC",
       "text": "step3.md"
     },{
+      "courseData": "setup-env.sh",
       "title": "Step 4 - Index your WARC",
       "text": "step4.md"
     },{
