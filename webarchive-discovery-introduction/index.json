@@ -18,12 +18,11 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboard": "Solr User Interface",
-    "uilayout": "terminal-iframe",
+    "dashboards": [{"name": "Display Solr User Interface", "port": 8983}, {"name": "Display Shine UI", "port": 9000}],
+    "uilayout": "terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker",
-    "port": 8983
+    "imageid": "docker"
   }
 }
