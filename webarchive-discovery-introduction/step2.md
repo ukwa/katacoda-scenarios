@@ -1,4 +1,4 @@
-Now Solr is running, you should be able to see Solr's built-in interface via the _Solr UI_ tab, or by visiting [this link](https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/) Once there:
+Now Solr is running, you should be able to see Solr's built-in interface by visiting [this link](https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/) Once there:
 
 * Solr can hold multiple databases (known as 'cores') -- select the one called `discovery`.
 * On the menu that appears, select the `Query` to switch to the query view.
