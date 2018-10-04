@@ -1,7 +1,7 @@
-Now Solr is running, you should be able to access it here:
+Now Solr is running, you should be able to access it by clicking this button:
 
 <div class="center-align">
-    <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/)">Solr User Interface</a>
+    <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/)">View Solr User Interface</a>
 </div>
 
 This is Solr's built-in user interface, which is not sutiable for end-users but is handy for exploring what's going on. For example:
