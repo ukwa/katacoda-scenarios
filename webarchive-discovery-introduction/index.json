@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Web Archive Discovery",
   "title": "Intro to Web Archive Discovery",
-  "description": "Create and use a full-text search index from WARC files.",
+  "description": "Create and use a full-text search index extracted from WARC files.",
   "difficulty": "beginner",
   "time": "15-20 minutes",
   "details": {
@@ -37,6 +37,9 @@
     },{
       "title": "Step 9 - Using Warclight",
       "text": "step9.md"
+    },{
+      "title": "Step 10 - Have Fun!",
+      "text": "step10.md"
     }],
     "finish": {
       "text": "finish.md"
