@@ -1,4 +1,4 @@
-Now Warclight is up and running, you can use it by clicking here[1]:
+Now Warclight is up and running, you can use it by clicking here\*:
 
 <div class="center-align">
     <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/">View Warclight User Interface</a>
@@ -14,4 +14,6 @@ From here you can:
 
 Like Shine, search results link to [the Internet Archive Wayback Machine](http://web.archive.org/) by default, but this can be changed as needed.
 
-[1]: If you are running this tutorial on your own machine, this should be `http://localhost:3000/`
+<small>
+\* If you are running this tutorial on your own machine, this should be `http://localhost:3000/`
+</small>

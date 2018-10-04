@@ -1,4 +1,4 @@
-Now Shine is up and running, you can use it by clicking here[1]:
+Now Shine is up and running, you can use it by clicking here\*:
 
 <div class="center-align">
     <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-9000-[[KATACODA_HOST]].environments.katacoda.com/shine">View Shine User Interface</a>
@@ -14,4 +14,6 @@ From here you can:
 
 By default, search results link to [the Internet Archive Wayback Machine](http://web.archive.org/) but it's possible to configure Shine to refer to any Wayback-compatible service.
 
-[1]: If you are running this tutorial on your own machine, this should be `http://localhost:9000/shine`
+<small>
+\* If you are running this tutorial on your own machine, this should be `http://localhost:9000/shine`
+</small>

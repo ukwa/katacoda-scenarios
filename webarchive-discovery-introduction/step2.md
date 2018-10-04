@@ -1,4 +1,4 @@
-Assuming Solr has finished starting up, you should be able to access it by clicking this button[1]:
+Assuming Solr has finished starting up, you should be able to access it by clicking this button\*:
 
 <div class="center-align">
     <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/">View Solr User Interface</a>
@@ -24,4 +24,6 @@ When you're done, it should look like this:
 
 The next step is to populate this system with some WARC data...
 
-[1]: If you are running this tutorial on your own machine, Solr should be available at http://localhost:8983/
+<small>
+* If you are running this tutorial on your own machine, Solr should be available at http://localhost:8983/
+</small>
