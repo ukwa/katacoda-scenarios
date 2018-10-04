@@ -1,16 +1,11 @@
-
-
-We have prepared a packaged-up XXX that contains a suitable configuration.
-
-You can run it like this:
-
-`docker run --name warclight --link solr --env SOLR_URL=http://solr:8983/solr/discovery -d -p 3000:3000 ukwa/iipc-workshop-warclight`{{execute}}
-
-`docker logs -f warclight`{{execute}}
-
-To exit use `Ctrl-C`.
+Now Shine is up and running, you can use it by clicking here:
 
 <div class="center-align">
-    <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/">View Warclight User Interface</a>
+    <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-9000-[[KATACODA_HOST]].environments.katacoda.com/shine">View Shine User Interface</a>
 </div>
 
+From here you can:
+
+* Click the `Search` tab (at the top) and enter a search query, like `mona` (or even `*:*` to match all results).
+* Filter those results using search facets.
+* ...TBA...

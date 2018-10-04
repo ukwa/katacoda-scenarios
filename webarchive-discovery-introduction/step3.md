@@ -1,9 +1,15 @@
 Now we need to download the WARC content we want to index. 
 
-You can use any WARCs you like for this, but this tutorial will give specific instrutions for a test WARC that contains a copy of a page from Wikipedia. You can download it using:
+In principle can use any WARCs you like for this, as long as you can download them from the internet. However, this tutorial system runs using a very lightweight virtual machine that is not suitable for processing large amounts of data.
+
+To keep things simple, this tutorial will only give specific instrutions for a small test WARC that contains a copy of [a page from Wikipedia](https://en.wikipedia.org/wiki/Mona_Lisa) from 2013. You can download it using:
 
 `curl -O https://raw.githubusercontent.com/ukwa/webarchive-discovery/master/warc-indexer/src/test/resources/wikipedia-mona-lisa/flashfrozen-jwat-recompressed.warc.gz`{{execute}}
 
-Now, if you list the contents of the current folder, you should find the WARC and the `webarchive-indexer` application file.
+Now, if you list the contents of the current folder...
 
 `ls -la`{{execute}}
+
+...you should find the WARC and the `webarchive-indexer` application JAR file.
+
+Finally, we can now put all this together and index a WARC.

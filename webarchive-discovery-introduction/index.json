@@ -7,7 +7,7 @@
     "intro": {
       "courseData": "setup-env.sh",
       "text": "intro.md",
-      "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/)"
+      "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/) in partnership with [The Archives Unleashed Project](https://archivesunleashed.org/)."
     },
     "steps": [{
       "title": "Step 1 - Start Solr",
@@ -28,8 +28,14 @@
       "title": "Step 6 - Running Shine",
       "text": "step6.md"
     },{
-      "title": "Step 7 - Running Warclight",
+      "title": "Step 7 - Using Shine",
       "text": "step7.md"
+    },{
+      "title": "Step 8 - Running Warclight",
+      "text": "step8.md"
+    },{
+      "title": "Step 9 - Using Warclight",
+      "text": "step9.md"
     }],
     "finish": {
       "text": "finish.md"

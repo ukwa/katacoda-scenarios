@@ -1,7 +1,7 @@
 Welcome to Web Archive Discovery
 --------------------------------
 
-In this tutorial, we will learn how to index WARC files so you can perform full-text search, faceted search, and basic analytics on their contents.
+In this tutorial, you will learn how to process WARC files so you can perform full-text search, faceted search, and basic analytics on their contents.
 
 We will use the [webarchive-discovery](https://github.com/ukwa/webarchive-discovery) toolkit to process the WARCs and populate an [Apache Solr](https://lucene.apache.org/solr/) full-text search index.
 
@@ -16,4 +16,4 @@ We will use [Docker](https://www.docker.com/) containers as a way of running the
 
 ### IMPORTANT NOTE ###
 
-This tutorial system provides a safe space for experimentation, but please note that is is temporary, and no data will be kept once the tutorial is over.
+This tutorial system provides a safe space for experimentation, but please note that is is temporary, and no data will be kept once the session times-out or once you leave the tutorial.
