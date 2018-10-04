@@ -12,11 +12,11 @@ It might take a little while to download, unpack, run and start-up fully.
 
 ### Check the log file
 
-If you want to have a look at what's going on, you can type:
+Once it's started running, if you want to have a look at what's going on, you can type:
 
 `docker logs -f solr`{{execute}}
 
 This will follow the logs as they are written. 
 
-Once the logs have settled down, exit use `Ctrl-C` and move onto the next step.
+Once the logs have settled down, exit by pressing `Ctrl-C` and move onto the next step.
 

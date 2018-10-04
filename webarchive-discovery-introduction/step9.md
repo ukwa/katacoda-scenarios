@@ -1,4 +1,4 @@
-Now Warclight is up and running, you can use it by clicking here:
+Now Warclight is up and running, you can use it by clicking here[1]:
 
 <div class="center-align">
     <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/">View Warclight User Interface</a>
@@ -12,4 +12,6 @@ From here you can:
 * Control which fields are considered when you enter your search query (All text, or just the title/content/URL/host).
 * Click through to a detailed result page, summarising the data for that archived resource and linking to the live site and archived playback URL.
 
-As which Shine, search results link to [the Internet Archive Wayback Machine](http://web.archive.org/) but this can be changed as needed.
+Like Shine, search results link to [the Internet Archive Wayback Machine](http://web.archive.org/) by default, but this can be changed as needed.
+
+[1]: If you are running this tutorial on your own machine, this should be `http://localhost:3000/`
