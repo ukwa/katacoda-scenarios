@@ -8,4 +8,8 @@ You can run it like this:
 
 Go to [this link](https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/)
 
+<div class="center-align">
+    <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/">Warclight User Interface</a>
+</div>
+
 To exit use `Ctrl-C`.
