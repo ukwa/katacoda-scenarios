@@ -1,6 +1,6 @@
 {
   "pathwayTitle": "Web Archive Discovery",
-  "title": "Intro to Web Archive Discovery",
+  "title": "Introduction to Web Archive Discovery",
   "description": "Create and use a full-text search index extracted from WARC files.",
   "difficulty": "beginner",
   "time": "15-20 minutes",
