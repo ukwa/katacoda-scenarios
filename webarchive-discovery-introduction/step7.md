@@ -9,3 +9,5 @@ From here you can:
 * Click the `Search` tab (at the top) and enter a search query, like `mona` (or even `*:*` to match all results).
 * Filter those results using search facets.
 * ...TBA...
+
+By default, search results link to [the Internet Archive Wayback Machine](http://web.archive.org/) but it's possible to configure Shine to refer to any Wayback-compatible service.

@@ -9,3 +9,5 @@ From here you can:
 * Use the `Search` box to enter a query, like `mona` (or even `*:*` to match all results).
 * Filter those results using search facets.
 * ...TBA...
+
+As which Shine, search results link to [the Internet Archive Wayback Machine](http://web.archive.org/) but this can be changed as needed.

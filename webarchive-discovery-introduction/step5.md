@@ -4,10 +4,10 @@ Having indexed some content, you can now got back and re-run your Solr query:
     <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/">View Solr User Interface</a>
 </div>
 
-You should now see 39 results, corresponding the the 39 `HTTP 200` response records from the WARC (the default indexer configuration only processes `HTTP 200` responses).
+After clicking `Execute Query` you should now see 39 results, corresponding the the 39 `HTTP 200` response records from the WARC (the default indexer configuration only processes `HTTP 200` responses).
 
-* If you edit the `*:*` and instead search for `mona`, you should see just a handful of records. 
+* If you edit the `*:*` and instead search for `mona`, you should see just three records where the text or URL match that term.
 * If you scroll down, you will be able to see all the different data fields the indexing process extracts (using the default configuration).
 * ...TBA...
 
-But for a more user-friendly experience, we can use one of the alternative [front ends](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends) that support our Solr data schema...
+But for a more user-friendly experience, we can use one of the alternative [front ends](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends) that support our Solr data schema.

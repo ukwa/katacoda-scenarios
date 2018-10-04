@@ -4,7 +4,7 @@ You can run it using this command, which will show the command-line options supp
 
 `java -jar warc-indexer-3.0.0-jar-with-dependencies.jar`{{execute}}
 
-To actually index some WARCs, we need to tell it where Solr is (`-s http://docker:8983/solr/discovery` in this case), and list the WARC files we want to process:
+To actually index some WARCs, we need to link it to our Solr service (`-s http://docker:8983/solr/discovery` in this case), and the WARC files we want to process:
 
 `java -jar warc-indexer-3.0.0-jar-with-dependencies.jar -s http://docker:8983/solr/discovery flashfrozen-jwat-recompressed.warc.gz`{{execute}}
 
