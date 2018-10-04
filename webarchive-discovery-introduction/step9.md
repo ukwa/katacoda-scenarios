@@ -1,4 +1,4 @@
-Now Warclight is up and running, you can use it by clicking here\*:
+Now Warclight is up and running, you can use it by clicking here\*
 
 <div class="center-align">
     <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/">View Warclight User Interface</a>

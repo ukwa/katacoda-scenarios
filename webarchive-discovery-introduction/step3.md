@@ -10,12 +10,13 @@ Now, if you list the contents of the current folder...
 
 `ls -la`{{execute}}
 
-...you should find the WARC and the `webarchive-indexer` application JAR file.
+...you should find the WARC and the `webarchive-indexer` application JAR file\*.
 
 Finally, we can now put all this together and index a WARC.
 
-### Local installation
-
-If you want to download the indexer to your own machine, you can find it [here](https://repo1.maven.org/maven2/uk/bl/wa/discovery/warc-indexer/3.0.0/), or use this command:
+<small>
+\* If you want to download the indexer to your own machine, you can find it [here](https://repo1.maven.org/maven2/uk/bl/wa/discovery/warc-indexer/3.0.0/), or use this command:
 
 `curl -O https://repo1.maven.org/maven2/uk/bl/wa/discovery/warc-indexer/3.0.0/warc-indexer-3.0.0-jar-with-dependencies.jar`{{copy}}
+
+</small>

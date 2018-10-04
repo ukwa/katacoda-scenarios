@@ -1,4 +1,4 @@
-Now Shine is up and running, you can use it by clicking here\*:
+Now Shine is up and running, you can use it by clicking here\*
 
 <div class="center-align">
     <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-9000-[[KATACODA_HOST]].environments.katacoda.com/shine">View Shine User Interface</a>
