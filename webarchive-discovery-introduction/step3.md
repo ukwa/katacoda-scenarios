@@ -10,7 +10,7 @@ Now, if you list the contents of the current folder...
 
 `ls -la`{{execute}}
 
-...you should find the WARC and the `webarchive-indexer` application JAR file\*.
+...you should find the WARC and the `warc-indexer` application JAR file\*.
 
 Finally, we can now put all this together and index a WARC.
 

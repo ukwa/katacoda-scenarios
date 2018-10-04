@@ -1,4 +1,4 @@
-The `webarchive-indexer` is a Java application based largely around [Apache Tika](https://tika.apache.org/) but with a number of extensions for handling web archive content.
+The `warc-indexer` is a Java application based largely around [Apache Tika](https://tika.apache.org/) but with a number of extensions for handling web archive content.
 
 You can run it using this command, which will show the command-line options supported by the tool:
 
@@ -18,5 +18,5 @@ When it's done, we can move on to exploring the data.
 
 <hr/>
 <small>
-\* If you are running this tutorial on your own machine, this should be `-s http://localhost:8983/solr/discovery`
+\* If you are running Solr on your own machine, use `-s http://localhost:8983/solr/discovery`
 </small>

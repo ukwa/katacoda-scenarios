@@ -16,5 +16,5 @@ Like Shine, search results link to [the Internet Archive Wayback Machine](http:/
 
 <small>
 <hr/>
-\* If you are running this tutorial on your own machine, this should be `http://localhost:3000/`
+\* If you are running this tutorial on your own machine, this should be http://localhost:3000/
 </small>
