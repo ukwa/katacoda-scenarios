@@ -1,7 +1,7 @@
-Now Solr is running, you should be able to access it by clicking this button:
+Once Solr has finished starting up, you should be able to access it by clicking this button:
 
 <div class="center-align">
-    <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/)">View Solr User Interface</a>
+    <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/">View Solr User Interface</a>
 </div>
 
 This is Solr's built-in user interface, which is not sutiable for end-users but is handy for exploring what's going on. For example:
@@ -19,3 +19,5 @@ This is Solr's built-in user interface, which is not sutiable for end-users but 
 </style>
 
 ![Empty Solr Screenshot](https://raw.githubusercontent.com/ukwa/katacoda-scenarios/master/webarchive-discovery-introduction/images/solr-ui-query-empty.png "Empty Solr Screenshot")
+
+The next step is to populate this system with some WARC data.
