@@ -14,6 +14,8 @@ From here you can:
 
 By default, search results link to [the Internet Archive Wayback Machine](http://web.archive.org/) but it's possible to configure Shine to refer to any Wayback-compatible service.
 
+----
+
 <small>
 \* If you are running this tutorial on your own machine, this should be `http://localhost:9000/shine`
 </small>

@@ -14,6 +14,8 @@ From here you can:
 
 Like Shine, search results link to [the Internet Archive Wayback Machine](http://web.archive.org/) by default, but this can be changed as needed.
 
+----
+
 <small>
 \* If you are running this tutorial on your own machine, this should be `http://localhost:3000/`
 </small>

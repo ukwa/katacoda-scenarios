@@ -16,6 +16,8 @@ As the indexer runs, it will report the configuration and the name of the WARC f
 
 When it's done, we can move on to exploring the data.
 
+----
+
 <small>
 \* If you are running this tutorial on your own machine, this should be `-s http://localhost:8983/solr/discovery`
 </small>

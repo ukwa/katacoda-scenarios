@@ -24,6 +24,8 @@ When you're done, it should look like this:
 
 The next step is to populate this system with some WARC data...
 
+----
+
 <small>
 \* If you are running this tutorial on your own machine, Solr should be available at http://localhost:8983/
 </small>
