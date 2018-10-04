@@ -1,8 +1,8 @@
-Now Solr is running, you should be able to see Solr's built-in interface:
+Now Solr is running, you should be able to access it here: <a class="btn-small" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/)">Solr UI</a>
 
-<a class="btn btn-primary" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/)">Solr UI</a>
+<a class="btn-small center-align" href="https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/)">Solr UI</a>
 
-Once [there](https://[[HOST_SUBDOMAIN]]-8983-[[KATACODA_HOST]].environments.katacoda.com/):
+This is Solr's built-in user interface, which is not sutiable for end-users but is handy for exploring what's going on. For example:
 
 * Solr can hold multiple databases (known as 'cores') -- select the one called `discovery`.
 * On the menu that appears, select the `Query` to switch to the query view.
