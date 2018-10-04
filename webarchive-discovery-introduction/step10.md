@@ -11,8 +11,12 @@ Have fun!
 
 ### Additional WARC files:
 
+<small>
+
 `curl -O https://github.com/ukwa/webarchive-test-suite/raw/master/wikipedia-sopa-blackout-2012/wikipedia-blackout/sopa-wikipedia-homepage.warc.gz`{{execute}}
 
 `curl -O https://github.com/ukwa/webarchive-test-suite/raw/master/wikipedia-sopa-blackout-2012/wikipedia-post-blackout/post-blackout.warc.gz`{{execute}}
 
 `curl -O https://github.com/ukwa/webarchive-test-suite/raw/master/small-arcs-and-warcs/IAH-20080430204825-00000-blackbook-truncated.warc.gz`{{execute}}
+
+</small>
