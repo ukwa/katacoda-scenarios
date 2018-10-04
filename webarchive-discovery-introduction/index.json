@@ -1,6 +1,7 @@
 {
-  "title": "Introduction to Web Archive Discovery",
-  "description": "Learn how to use the webarchive-discovery tools to build a full-text index from WARC files, and explore them via faceted search.",
+  "pathwayTitle": "Web Archive Discovery",
+  "title": "Intro to Web Archive Discovery",
+  "description": "Create and use a full-text search index from WARC files.",
   "difficulty": "beginner",
   "time": "15-20 minutes",
   "details": {
