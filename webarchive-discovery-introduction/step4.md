@@ -10,7 +10,7 @@ To actually index some WARCs, we need to link it to our Solr service (`-s http:/
 
 If you want to index a different WARC file, you can copy and edit this command:
 
-`java -jar warc-indexer-3.0.0-jar-with-dependencies.jar -s http://docker:8983/solr/discovery YOUR-FILE.warc.gz`{{copy}}
+`java -Dfile.encoding=UTF-8 -jar warc-indexer-3.0.0-jar-with-dependencies.jar -s http://docker:8983/solr/discovery YOUR-FILE.warc.gz`{{copy}}
 
 As the indexer runs, it will report the configuration and the name of the WARC file it is processing. When it's finished, it will output lots of data on timing, which can help to work out which parts of the code are slowest.
 
