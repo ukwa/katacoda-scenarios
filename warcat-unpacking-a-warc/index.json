@@ -17,7 +17,7 @@
           "target": "~/"
         }
       ]
-    }
+    },
     "steps": [{
       "title": "Step 1 - Install Warcat",
       "text": "step1.md"
