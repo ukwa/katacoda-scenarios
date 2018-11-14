@@ -6,6 +6,7 @@
   "time": "15-20 minutes",
   "details": {
     "intro": {
+      "courseData": "setup-env.sh",
       "text": "intro.md",
       "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
     },
