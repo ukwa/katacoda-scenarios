@@ -10,14 +10,6 @@
       "text": "intro.md",
       "credits": "v0.1 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
     },
-    "assets": {
-      "host01": [
-        {
-          "file": "small-example.warc.gz",
-          "target": "~/"
-        }
-      ]
-    },
     "steps": [{
       "title": "Step 1 - Install Warcat",
       "text": "step1.md"
@@ -30,6 +22,14 @@
     "uilayout": "terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
+    "client": {
+      "host01": [
+        {
+          "file": "small-example.warc.gz",
+          "target": "~/"
+        }
+      ]
+    },
   "backend": {
     "imageid": "bash"
   }
