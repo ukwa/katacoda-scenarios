@@ -11,10 +11,10 @@
       "credits": "v0.1 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
     },
     "assets": {
-      "client": [
+      "host01": [
         {
           "file": "small-example.warc.gz",
-          "target": "~/small-example.warc.gz"
+          "target": "~/"
         }
       ]
     },
