@@ -8,10 +8,10 @@
     "intro": {
       "courseData": "setup-env.sh",
       "text": "intro.md",
-      "credits": "v0.3 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
+      "credits": "v0.4 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
     },
     "assets": {
-      "client": [
+      "client0": [
         {
           "file": "small-example.warc.gz",
           "target": "~/"
