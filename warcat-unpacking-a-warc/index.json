@@ -8,7 +8,7 @@
     "intro": {
       "courseData": "setup-env.sh",
       "text": "intro.md",
-      "credits": "v0.2 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
+      "credits": "v0.3 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
     },
     "assets": {
       "client": [
@@ -31,6 +31,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "bash"
   }
 }
