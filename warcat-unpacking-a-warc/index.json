@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Warcat",
-  "title": "Unpacking a WARC with Warcat",
-  "description": "Use the Python Warcat package to get files out of a WARC.",
+  "title": "[DEV] Unpacking a WARC with Warcat",
+  "description": "[UNDER DEVELOPMENT] Use the Python Warcat package to get files out of a WARC.",
   "difficulty": "beginner",
   "time": "15-20 minutes",
   "details": {
