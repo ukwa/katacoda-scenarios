@@ -10,6 +10,14 @@
       "text": "intro.md",
       "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
     },
+    "assets": {
+      "client": [
+        {
+          "file": "small-test.warc.gz",
+          "target": "~/"
+        }
+      ]
+    }
     "steps": [{
       "title": "Step 1 - Install Warcat",
       "text": "step1.md"
