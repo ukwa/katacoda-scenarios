@@ -1,0 +1,56 @@
+{
+  "pathwayTitle": "Warcat",
+  "title": "Unpacking a WARC with Warcat",
+  "description": "Use the Python Warcat package to get files out of a WARC.",
+  "difficulty": "beginner",
+  "time": "15-20 minutes",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
+    },
+    "steps": [{
+      "title": "Step 1 - Start Solr",
+      "text": "step1.md"
+    },{
+      "title": "Step 2 - Check Solr",
+      "text": "step2.md"
+    },{
+      "title": "Step 3 - Download a WARC",
+      "text": "step3.md"
+    },{
+      "title": "Step 4 - Index your WARC",
+      "text": "step4.md"
+    },{
+      "title": "Step 5 - Explore Solr",
+      "text": "step5.md"
+    },{
+      "title": "Step 6 - Running Shine",
+      "text": "step6.md"
+    },{
+      "title": "Step 7 - Using Shine",
+      "text": "step7.md"
+    },{
+      "title": "Step 8 - Running Warclight",
+      "text": "step8.md"
+    },{
+      "title": "Step 9 - Using Warclight",
+      "text": "step9.md"
+    },{
+      "title": "Step 10 - Have Fun!",
+      "text": "step10.md"
+    }],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "showdashboard": true,
+    "dashboards": [{"name": "Solr UI", "port": 8983}, {"name": "Shine UI", "port": 9000}, {"name": "Warclight UI", "port": 3000}],
+    "uilayout": "terminal-iframe",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}
