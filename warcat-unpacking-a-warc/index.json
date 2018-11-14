@@ -8,7 +8,15 @@
     "intro": {
       "courseData": "setup-env.sh",
       "text": "intro.md",
-      "credits": "v0.1 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
+      "credits": "v0.2 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "small-example.warc.gz",
+          "target": "~/"
+        }
+      ]
     },
     "steps": [{
       "title": "Step 1 - Install Warcat",
@@ -22,15 +30,7 @@
     "uilayout": "terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
-    "client": {
-      "host01": [
-        {
-          "file": "small-example.warc.gz",
-          "target": "~/"
-        }
-      ]
-    },
   "backend": {
-    "imageid": "bash"
+    "imageid": "docker"
   }
 }
