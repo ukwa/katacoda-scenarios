@@ -20,7 +20,7 @@
     "assets": {
       "client": [
         {
-          "file": "small-example.warc.gz",
+          "file": "assets/small-example.warc.gz",
           "target": "~/"
         }
       ]
