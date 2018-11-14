@@ -8,7 +8,15 @@
     "intro": {
       "courseData": "setup-env.sh",
       "text": "intro.md",
-      "credits": "Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
+      "credits": "v0.1 Created by [The UK Web Archive](https://www.webarchive.org.uk/)."
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "small-example.warc.gz",
+          "target": "~/small-example.warc.gz"
+        }
+      ]
     },
     "steps": [{
       "title": "Step 1 - Install Warcat",
@@ -16,20 +24,10 @@
     }],
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "client": [
-        {
-          "file": "assets/small-example.warc.gz",
-          "target": "~/"
-        }
-      ]
     }
   },
   "environment": {
-    "showdashboard": true,
-    "dashboards": [{"name": "Solr UI", "port": 8983}, {"name": "Shine UI", "port": 9000}, {"name": "Warclight UI", "port": 3000}],
-    "uilayout": "terminal-iframe",
+    "uilayout": "terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {

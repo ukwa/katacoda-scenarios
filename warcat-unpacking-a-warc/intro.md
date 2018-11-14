@@ -14,3 +14,4 @@ Basic familiarity with the UNIX command line is recommended.
 ### IMPORTANT NOTE ###
 
 This tutorial system provides a safe space for experimentation, but please note that is is temporary, and no data will be kept once the session times-out or once you leave the tutorial.
+
